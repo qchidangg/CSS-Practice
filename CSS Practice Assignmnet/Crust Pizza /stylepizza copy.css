@@ -1,0 +1,36 @@
+header {
+    color: white;
+    background-image: url(banner.png);
+    background-repeat: repeat;
+    background-position: top;
+    text-align: -webkit-center;
+    padding: 100px;
+    font-family: cursive;
+    padding-bottom: 15px;
+    padding-top: 150px;
+    line-height: 0.8
+}
+
+main {
+    list-style-image: url('Icon.png');
+    background: #FFEFD5;
+    text-align: left;
+    font-family: cursive
+}
+
+span {
+    color: #d2ac12
+}
+
+.container {
+    display: flex;
+    align-items: baseline;
+    justify-content: left;
+    margin-left: 870px;
+    margin-right: 400px;
+    font-size: larger;
+}
+
+text {
+    font-weight: 800;
+}
